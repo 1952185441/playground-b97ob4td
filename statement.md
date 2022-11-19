@@ -13,6 +13,7 @@ class Hello
 // }
 
 Console.WriteLine("Hello World!");
+console.writeline("fdagdafg")
 
 // { autofold
     }
